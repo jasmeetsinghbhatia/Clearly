@@ -102,3 +102,6 @@ ENV/
 
 #IDE stuff
 .idea/
+
+# VS Code stuff
+.vscode/
